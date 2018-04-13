@@ -1,0 +1,1 @@
+﻿Math.max(i.rankingData.lastPreviewPaneLaunchTime,t.rankingData.lastPreviewPaneLaunchTime)
